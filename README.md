@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-**Name:** Vishvesh Sharma
+**Name:** Shikhar Saxena
 **Branch:** Computer Science and Engineering
 **Year:** 2025
 **Course Code:** CSE0001
